@@ -1,6 +1,6 @@
 # DLCV-Fall-2022-HW4
 
-Please click [this link](https://docs.google.com/presentation/d/171DwrrzYUenLnyev_NyZg0c19lgqk4q42iA_ptLZjDk/edit?usp=share_link) to view the slides of HW3
+Please click [this link](https://docs.google.com/presentation/d/171DwrrzYUenLnyev_NyZg0c19lgqk4q42iA_ptLZjDk/edit?usp=sharing) to view the slides of HW4
 
 # Usage
 
@@ -16,16 +16,17 @@ Note that you should replace `<username>` with your own GitHub username.
 2022/12/12 (Mon.) 23:59
 
 ### Packages
-This homework should be done using python3.8. For a list of packages you are allowed to import in this assignment, please refer to the requirments.txt for more details.
+This homework should be done using python3.8. For a list of packages you are allowed to import in this assignment, please refer to the `requirements.txt` for more details.
 
 You can run the following command to install all the packages listed in the requirements.txt:
-
-  pip install -r requirements.txt --no-cache-dir && pip install torch-scatter -f https://data.pyg.org/whl/torch-1.12.0+cu102.html --no-cache-dir
+``` Shell
+pip install -r requirements.txt --no-cache-dir && pip install torch-scatter -f https://data.pyg.org/whl/torch-1.12.0+cu102.html --no-cache-dir
+```
 
 Note that using packages with different versions will very likely lead to compatibility issues, so make sure that you install the correct version if one is specified above. E-mail or ask the TAs first if you want to import other packages.
 
 # Q&A
-If you have any problems related to HW3, you may
+If you have any problems related to HW4, you may
 - Use TA hours
 - Contact TAs by e-mail ([ntudlcv@gmail.com](mailto:ntudlcv@gmail.com))
-- Post your question under hw3 FAQ section in FB group.(But TAs won't answer your question on FB.)
+- Post your question under hw4 FAQ section in FB group.(But TAs won't answer your question on FB.)
