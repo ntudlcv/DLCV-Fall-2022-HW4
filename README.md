@@ -12,7 +12,7 @@ To start working on this assignment, you should clone this repository into your 
 Note that you should replace `<username>` with your own GitHub username.
 
 # Data
-please download p4_data from the link below
+please download hw4_data from the link below
 https://drive.google.com/file/d/1Tc0f28syYVE185Z6388DWUOVHGSANCmX/view?usp=share_link
 
 # Submission Rules
